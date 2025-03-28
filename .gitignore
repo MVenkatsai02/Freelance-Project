@@ -1,0 +1,35 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+ENV/
+
+# Ignore model and dataset files
+xgb_model.pkl
+room_bookings.xlsx
+
+# Ignore environment variables and secrets
+.env
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit cache and logs
+.streamlit/
+logs/
+
+# Ignore Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# Ignore VS Code settings (if using VS Code)
+.vscode/
+
+# Ignore other temporary files
+*.log
+*.tmp
+
