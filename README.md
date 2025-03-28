@@ -27,7 +27,7 @@ hotel-booking-predictor/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/hotel-booking-predictor.git
+git clone https://github.com/MVenkatsai02/Freelance-Project
 cd hotel-booking-predictor
 ```
 
